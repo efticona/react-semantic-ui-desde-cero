@@ -1,0 +1,29 @@
+fulll react/react Native/react router
+
+npm i -g serve
+
+localhost:5000
+
+
+Como subir al servidor
+la carpeta dist lo subes
+
+lo que esta compilado
+
+======================================================================================================================================
+solo maneja una url
+cd /var/www/html
+
+REACT LINKS
+1. Un sitio para compartir links sobre contenido REACT
+2. Subir contenido(url, descripcion)
+3. Mostrar el contenido, comentar 
+
+
+librerias para usar el corrector de código eslint:
+npm install eslint-plugin-babel --save-dev
+npm install babel-eslint --save-dev
+npm install eslint --save-dev
+npm install eslint-plugin-react --save-dev
+
+

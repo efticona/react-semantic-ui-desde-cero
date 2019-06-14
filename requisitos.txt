@@ -1,0 +1,17 @@
+Para subir el proyecto al servidor se sube la carpeta dist donde esta todo lo compilado en es5 o es6 para el navegador.
+
+En linux se pondría en cd /var/www/html
+
+REACT LINKS
+1. Un sitio para compartir links sobre contenido REACT
+2. Subir contenido(url, descripcion)
+3. Mostrar el contenido, comentar
+
+
+librerias para usar el corrector de código eslint:
+npm install eslint-plugin-babel --save-dev
+npm install babel-eslint --save-dev
+npm install eslint --save-dev
+npm install eslint-plugin-react --save-dev
+
+

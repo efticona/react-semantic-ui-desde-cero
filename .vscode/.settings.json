@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "eslint.autoFixOnSave": true,
+    "emmet.triggerExpansionOnTab": true
+}
